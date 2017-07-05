@@ -1,11 +1,11 @@
 UIColor+lightAndDark
 ====================
 
-An API for UIColor to get a slightly lighter or darker color of a pre-existing one
+An API for UIColor to get a slightly lighter or darker color of an instance.
 
 Code grabbed from: http://stackoverflow.com/a/11598127/3464699
 
-Re-made by Sassoty to make it easier to incorporate in your projects (git submodule, etc.)
+Modified to ease the process of incorporating into projects (git submodule, etc.)
 
 Usage
 =====
